@@ -1,0 +1,2 @@
+com/example/lauhin/BuildConfig.java
+ com.example.lauhin.BuildConfig
